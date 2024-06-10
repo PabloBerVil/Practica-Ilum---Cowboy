@@ -1,0 +1,21 @@
+﻿  glew.c
+  Buffer.cpp
+C:\Users\marco\OneDrive - U-tad\Programacion 3D\Practica_4\plantilla3d\src\Buffer.cpp(17,13): warning C4244: 'inicializando': conversión de 'size_t' a 'float'; posible pérdida de datos
+C:\Users\marco\OneDrive - U-tad\Programacion 3D\Practica_4\plantilla3d\src\Buffer.cpp(23,30): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Camera.cpp
+  Entity.cpp
+  main.cpp
+C:\Users\marco\OneDrive - U-tad\Programacion 3D\Practica_4\plantilla3d\src\main.cpp(9,10): fatal error C1083: No se puede abrir el archivo incluir: 'glfw3.h': No such file or directory
+  Material.cpp
+C:\Users\marco\OneDrive - U-tad\Programacion 3D\Practica_4\plantilla3d\src\Texture.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'stb_image.h': No such file or directory
+  Mesh.cpp
+C:\Users\marco\OneDrive - U-tad\Programacion 3D\Practica_4\plantilla3d\src\Mesh.cpp(6,10): fatal error C1083: No se puede abrir el archivo incluir: 'tiny_obj_loader.h': No such file or directory
+  Model.cpp
+  Shader.cpp
+  State.cpp
+  Texture.cpp
+C:\Users\marco\OneDrive - U-tad\Programacion 3D\Practica_4\plantilla3d\src\Texture.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'stb_image.h': No such file or directory
+  VertexVec.cpp
+  World.cpp
+  Generando código...
+C:\Users\marco\OneDrive - U-tad\Programacion 3D\Practica_4\plantilla3d\src\Model.cpp(29): warning C4172: devolución de dirección de la variable local o temporal: Matrix
